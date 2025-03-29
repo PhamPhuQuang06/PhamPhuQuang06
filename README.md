@@ -23,6 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamphuquang06&show_icons=true&locale=en" alt="phamphuquang06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamphuquang06&" alt="phamphuquang06" /></p>
-![](https://komarev.com/ghpvc/?username=PhamPhuQuang06)
-![](https://komarev.com/ghpvc/?username=PhamPhuQuang06&color=blue)
-![](https://komarev.com/ghpvc/?username=PhamPhuQuang06&style=flat-square)
