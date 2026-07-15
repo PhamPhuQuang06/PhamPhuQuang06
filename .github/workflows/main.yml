@@ -20,7 +20,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&locale=vi
+          # Thẻ 1: Thống kê chung (Thêm theme=radical để đổi màu tối rực rỡ)
+          options: username=${{ github.repository_owner }}&show_icons=true&locale=vi&theme=radical
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,7 +30,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&locale=vi
+          # Thẻ 2: Ngôn ngữ (Thêm theme=radical và show_icons=true)
+          options: username=${{ github.repository_owner }}&layout=compact&locale=vi&theme=radical&show_icons=true
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
