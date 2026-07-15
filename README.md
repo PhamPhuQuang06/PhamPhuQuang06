@@ -7,6 +7,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.github.com/PhamPhuQuang06" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PhamPhuQuang06?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+## 📊 Thống kê GitHub của tôi
+
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/langs.svg)
+
 ### Skills
 
 
